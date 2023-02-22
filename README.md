@@ -13,7 +13,7 @@ Below you'll find a list of google colaboratories [PYTHON] with materials
 ---
 ## Contributors:
 - Brzóska Zuzanna
-- Szczepańczyk Mateusz
+- Szczepański Mateusz
 - Tadej Maciej
 - Wawrzyniak Magdalena
 ---
