@@ -16,3 +16,4 @@ Below you'll find a list of google colaboratories [PYTHON] with materials
 - Szczepańczyk Mateusz
 - Tadej Maciej
 - Wawrzyniak Magdalena
+---
