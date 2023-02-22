@@ -4,7 +4,7 @@ This is a common repository for a signal processing projects
 
 ---
 ## Contributors:
-- Brzózka Zuzanna
+- Brzóska Zuzanna
 - Szczepańczyk Mateusz
 - Tadej Maciej
 - Wawrzyniak Magdalena
