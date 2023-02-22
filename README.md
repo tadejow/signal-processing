@@ -1,7 +1,7 @@
 # Signal Processing
 ---
 ## Description
-This is a shared repository for a group of students participating in the course on signal processing.
+This is a shared repository for a group of students participating the course on signal processing.
 
 ---
 ## Laboratories
