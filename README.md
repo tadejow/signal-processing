@@ -1,7 +1,7 @@
 # Signal Processing
 ---
 ## Description
-This is a common repository for a signal processing projects
+This is a common repository for a group of students participating in the course on signal processing.
 
 
 ---
