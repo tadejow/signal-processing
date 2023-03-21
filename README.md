@@ -14,7 +14,6 @@ Below you'll find a list of google colaboratories [PYTHON] with materials
 - Brzóska Zuzanna
 - Szczepański Mateusz
 - Tadej Maciej
-- Wawrzyniak Magdalena
 ---
 ## References:
 - [Maciej Paluszyński's script](http://www.math.uni.wroc.pl/~mpal/academic/2018/falki.pdf)
