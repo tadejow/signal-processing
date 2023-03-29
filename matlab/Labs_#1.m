@@ -1,4 +1,4 @@
-% Zapisanie obrazka w postaci macierzy:
+% Basic operations on the Lena image with the Fourier Transform
 
 lena = imread('Lena.gif', 'gif'); % Save a file in variable 'lena';
 [lena, map] = imread('Lena.gif', 'gif'); % Variable map saves a colormap of the image;
